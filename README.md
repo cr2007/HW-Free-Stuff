@@ -35,6 +35,6 @@ This list can be updated by editing the file and putting a pull request on it.
   <br>
 <br>
   The catch? It's not available for personal use (can't download it on your own device) 🙃<br>
-  The only to access it is via <a href="http://keyserver.hw.ac.uk/">Keyserver</a>
+  The only to access it is via <a href="http://keyserver.hw.ac.uk/">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/is-ltestrainingcentre/SitePages/keyserver.aspx">here</a>)
   
 </details>
