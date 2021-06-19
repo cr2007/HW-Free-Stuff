@@ -13,12 +13,12 @@ Here's a list of free resources provided to HWU Students, most of which the Uni 
 This list can be updated by editing the file and putting a pull request on it.
 
 <details>
-  <summary><a href="https://education.github.com/pack"><b>Github Education Pack</b></a></summary>
+  <summary><a href="https://education.github.com/pack" target="_blank"><b>Github Education Pack</b></a></summary>
   Most of the resources within this pack would be helpful mainly for people who take CS/STEM-related courses,<br>but here are the highlights:
   <br>
   <ul>
-    <li>1 year <a href="https://www.canva.com/education/github/">Canvo Pro</a> for free</li>
-    <li><b>Free</b> <a href="https://education.github.com/pack">Github Pro</a> till you graduate</li>
+    <li>1 year <a href="https://www.canva.com/education/github/" target="_blank">Canvo Pro</a> for free</li>
+    <li><b>Free</b> <a href="https://education.github.com/pack" target="_blank">Github Pro</a> till you graduate</li>
   </ul>
 </details>
 
@@ -29,12 +29,12 @@ This list can be updated by editing the file and putting a pull request on it.
 ---
 
 <details>
-  <summary><a href=><a href="https://www.adobe.com/education.html?marketSegment=EDU"><b>Adobe Creative Cloud (The full set of Apps)</b></a></a></summary>
+  <summary><a href=><a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank"><b>Adobe Creative Cloud (The full set of Apps)</b></a></a></summary>
   Yes, HW students have the entire set of Adobe Creative Cloud Apps<br>
   Including Adobe Acrobat PDF, Photoshop, Illustrator, Premiere Pro, etc.
   <br>
 <br>
   The catch? It's not available for personal use (can't download it on your own device) 🙃<br>
-  The only to access it is via <a href="http://keyserver.hw.ac.uk/">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/is-ltestrainingcentre/SitePages/keyserver.aspx">here</a>)
+  The only to access it is via <a href="http://keyserver.hw.ac.uk/" target="_blank">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/is-ltestrainingcentre/SitePages/keyserver.aspx" target="_blank">here</a>)
   
 </details>
