@@ -29,12 +29,16 @@ This list can be updated by editing the file and putting a pull request on it.
 ---
 
 <details>
-  <summary><a href=><a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank"><b>Adobe Creative Cloud (The full set of Apps)</b></a></a></summary>
+  <summary><a href=><a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank"><b>Adobe Creative Cloud (The full set of Apps)</b></a></summary>
   Yes, HW students have the entire set of Adobe Creative Cloud Apps<br>
   Including Adobe Acrobat PDF, Photoshop, Illustrator, Premiere Pro, etc.
   <br>
 <br>
   The catch? It's not available for personal use (can't download it on your own device) 🙃<br>
   The only to access it is via <a href="http://keyserver.hw.ac.uk/" target="_blank">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/is-ltestrainingcentre/SitePages/keyserver.aspx" target="_blank">here</a>)
-  
+</details>
+
+<details>
+  <summary><a href="https://www.figma.com/education/"><b>Figma Education Pro Plan</b></a></summary>
+  Figma's Education Plans provides you with Unlimited Projects, Editors, Viewers, and Unlimited Version History for free.
 </details>
