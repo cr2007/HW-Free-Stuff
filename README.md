@@ -42,3 +42,10 @@ This list can be updated by editing the file and putting a pull request on it.
   <summary><a href="https://www.figma.com/education/"><b>Figma Education Pro Plan</b></a></summary>
   Figma's Education Plans provides you with Unlimited Projects, Editors, Viewers, and Unlimited Version History for free.
 </details>
+
+<details>
+  <summary><a href="https://www.linkedin.com/learning/"><b>Free LinkedIn Learning</b></a></summary>
+  LinkedIn Learning provides you access to 10,000+ courses in Business, Technology, and Creative.<br>
+  Through which you can easily add it to your LinkedIn profile when you have completed it.<br>
+  If you have already have a LinkedIn profile under a different email address, no worries, you can link it with your LinkedIn Learning account and share your course progress.<br>
+  You can get started by clicking <a href="https://www.linkedin.com/learning-login/"><b>here</b>
