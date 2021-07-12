@@ -66,3 +66,9 @@ Pull Requests with no proper description will be dismissed.
   You can get started by clicking <a href="https://www.linkedin.com/learning-login/"><b>here</b>
 </details>
 
+<details>
+  <summary><a href="https://www.coursera.org/for-university-and-college-students"><b>Coursera for Students</b></a></summary>
+  The Coursera for Campus Students plan allows university, college students to sign up for unlimited Guided Projects and one <b>free</b> course per year.<br>
+  To sign-up, you have to create an account using your HWU credentials (<i>ab1234</i>@hw.ac.uk), followed by which you will be able to access all the courses available.<br>
+  For more info, you can check out their <b><a href="https://www.coursera.org/for-university-and-college-students#:~:text=Frequently%20Asked%20Questions">FAQ</a></b>.
+</details>
