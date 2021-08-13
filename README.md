@@ -34,6 +34,7 @@ Pull Requests with no proper description will be dismissed.
   <ul>
     <li>1 year <a href="https://www.canva.com/education/github/" target="_blank">Canvo Pro</a> for free</li>
     <li><b>Free</b> <a href="https://education.github.com/pack" target="_blank">Github Pro</a> till you graduate</li>
+    <li>Free Access to the <a href="https://streamyard.com/github-students">StreamYard Essential Plan</a> while you are a student (Includes Unlimited Streaming, Multistreaming, Recording, etc.)</li>
   </ul>
 </details>
 
