@@ -34,6 +34,7 @@ Pull Requests with no proper description will be dismissed.
   <ul>
     <li>1 year <a href="https://www.canva.com/education/github/" target="_blank">Canvo Pro</a> for free</li>
     <li><b>Free</b> <a href="https://education.github.com/pack" target="_blank">Github Pro</a> till you graduate</li>
+    <li>Free Access to the <a href="https://streamyard.com/github-students">StreamYard Essential Plan</a> while you are a student (Includes Unlimited Streaming, Multistreaming, Recording, etc.)</li>
   </ul>
 </details>
 
@@ -71,4 +72,11 @@ Pull Requests with no proper description will be dismissed.
   The Coursera for Campus Students plan allows university, college students to sign up for unlimited Guided Projects and one <b>free</b> course per year.<br>
   To sign-up, you have to create an account using your HWU credentials (<i>ab1234</i>@hw.ac.uk), followed by which you will be able to access all the courses available.<br>
   For more info, you can check out their <b><a href="https://www.coursera.org/for-university-and-college-students#:~:text=Frequently%20Asked%20Questions">FAQ</a></b>.
+</details>
+
+<details>
+  <summary><a href="https://www.notion.so/product/notion-for-education"><b>Notion Education Pro Plan</b></summary></a>
+  Popular Productivity Tool that provides notes, databases, kanban boards, etc.<br>
+  The Personal Pro plan includes unlimited pages, blocks, file uploads, and version history.<br>
+  More info regarding the Plan <a href="https://www.notion.so/product/notion-for-education#:~:text=Try%20Notion%20free-,Questions%20%26%20answers,-Why%20is%20Notion"><b>here</b></a>
 </details>
