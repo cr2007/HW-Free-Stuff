@@ -78,5 +78,5 @@ Pull Requests with no proper description will be dismissed.
   <summary><a href="https://www.notion.so/product/notion-for-education"><b>Notion Education Pro Plan</b></summary></a>
   Popular Productivity Tool that provides notes, databases, kanban boards, etc.<br>
   The Personal Pro plan includes unlimited pages, blocks, file uploads, and version history.<br>
-  More info regarding the Plan <a href="https://www.notion.so/product/notion-for-education#:~:text=Try%20Notion%20free-,Questions%20%26%20answers,-Why%20is%20Notion"><b>here</b></a>
+  More info regarding the Plan <a href="https://www.notion.so/product/notion-for-education#:~:text=Try%20Notion%20free-,Questions%20%26%C2%A0answers,-I%E2%80%99m%20already%20paying"><b>here</b></a>
 </details>
