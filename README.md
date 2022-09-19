@@ -24,8 +24,6 @@ Pull Requests with no proper description will be dismissed.
 </details>
 
 ---
----
-
 
 <details>
   <summary><a href="https://education.github.com/pack" target="_blank"><b>Github Education Pack</b></a></summary>
@@ -45,7 +43,7 @@ Pull Requests with no proper description will be dismissed.
 ---
 
 <details>
-  <summary><a href=><a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank"><b>Adobe Creative Cloud (The full set of Apps)</b></a></summary>
+  <summary><a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank"><b>Adobe Creative Cloud (The full set of Apps)</b></a></summary>
   Yes, HW students have the entire set of Adobe Creative Cloud Apps<br>
   Including Adobe Acrobat PDF, Photoshop, Illustrator, Premiere Pro, etc.
   <br>
