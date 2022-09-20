@@ -17,7 +17,7 @@ This list can be updated by editing the file and putting a pull request on it.
   <summary>How to contribute to the list?</summary>
 Click on the pencil icon on the top-right and add your suggested software, tools.
 
-When you're done, at the bottom, create a new branch and set up a **Pull Request**.
+When you're done, at the bottom, create a new branch and set up a <strong>Pull Request</strong>.
 
 Make sure you add a proper description about your addition, especially in your Pull Request as well.<br>
 Pull Requests with no proper description will be dismissed.
