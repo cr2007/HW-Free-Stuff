@@ -104,7 +104,7 @@ Pull Requests with no proper description will be dismissed.
   LinkedIn Learning provides you access to 10,000+ courses in Business, Technology, and Creative.<br>
   Through which you can easily add it to your <a href="https://www.linkedin.com/">LinkedIn</a> profile when you have completed it.<br>
   If you have already have a LinkedIn profile under a different email address, no worries, you can link it with your LinkedIn Learning account and share your course progress.<br>
-  You can get started by clicking <a href="https://www.linkedin.com/learning-login/"><b>here</b>
+	You can get started by clicking <a href="https://www.linkedin.com/learning-login/"><b>here</b></a>
 
 </details>
 
