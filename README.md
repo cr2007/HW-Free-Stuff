@@ -58,7 +58,7 @@ Pull Requests with no proper description will be dismissed.
 
 <details>
 
-  <summary>
+  <summary id="Adobe">
     <a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank">
         <b>
             Adobe Creative Cloud (The full set of Apps)
