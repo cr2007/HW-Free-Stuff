@@ -7,24 +7,21 @@ mentioned that it is free as so -->
 <!-- When you're done with your additions, you can add a pull request to merge your additions -->
 
 
-
 # Free Stuff Provided by Heriot-Watt University
 
 Here's a list of free resources provided to HWU Students, most of which the Uni themselves may or may not be aware of it <br>
 
 This list can be updated by editing the file and putting a pull request on it.
+
 <details>
+  <summary>How to contribute to the list?</summary>
 
-  <summary>
-    How to contribute to the list?
-  </summary>
+  Click on the pencil icon on the top-right and add your suggested software, tools.
 
-Click on the pencil icon on the top-right and add your suggested software, tools.
+  When you're done, at the bottom, create a new branch and set up a <strong>Pull Request</strong>.
 
-When you're done, at the bottom, create a new branch and set up a <strong>Pull Request</strong>.
-
-Make sure you add a proper description about your addition, especially in your Pull Request as well.<br>
-Pull Requests with no proper description will be dismissed.
+  Make sure you add a proper description about your addition, especially in your Pull Request as well.<br>
+  Pull Requests with no proper description will be dismissed.
 
 </details>
 
@@ -32,11 +29,9 @@ Pull Requests with no proper description will be dismissed.
 
 <details>
 
-  <summary>
+  <summary id="GitHub">
     <a href="https://education.github.com/pack" target="_blank">
-        <b>
-            Github Education Pack
-        </b>
+      <b>Github Education Pack</b>
     </a>
   </summary>
 
@@ -57,12 +52,9 @@ Pull Requests with no proper description will be dismissed.
 ---
 
 <details>
-
   <summary id="Adobe">
     <a href="https://www.adobe.com/education.html?marketSegment=EDU" target="_blank">
-        <b>
-            Adobe Creative Cloud (The full set of Apps)
-        </b>
+      <b>Adobe Creative Cloud (The full set of Apps)</b>
     </a>
   </summary>
 
@@ -79,7 +71,7 @@ Pull Requests with no proper description will be dismissed.
 
 <details>
 
-  <summary>
+  <summary id="Figma">
     <a href="https://www.figma.com/education/">
         <b>
             Figma Education Pro Plan
@@ -93,12 +85,10 @@ Pull Requests with no proper description will be dismissed.
 
 <details>
 
-  <summary>
+  <summary id="LinkedIn Learning">
   	<a href="https://www.linkedin.com/learning/">
-		<b>
-            Free LinkedIn Learning
-        </b>
-	</a>
+      <b>Free LinkedIn Learning</b>
+    </a>
   </summary>
 
   LinkedIn Learning provides you access to 10,000+ courses in Business, Technology, and Creative.<br>
@@ -109,12 +99,9 @@ Pull Requests with no proper description will be dismissed.
 </details>
 
 <details>
-
-  <summary>
+  <summary id="Notion">
     <a href="https://www.notion.so/product/notion-for-education">
-        <b>
-            Notion Education Pro Plan
-        </b>
+      <b>Notion Education Pro Plan</b>
     </a>
   </summary>
   
