@@ -65,7 +65,7 @@ This list can be updated by editing the file and putting a pull request on it.
 	<p>The catch? It's not available for personal use (can't download it on your own device) 🙃</p>
   
   You can use the PCs available in the Computer Lab to access the apps<br>
-  <b>or</b> by using <a href="http://keyserver.hw.ac.uk/" target="_blank">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/is-ltestrainingcentre/SitePages/keyserver.aspx" target="_blank">here</a>)
+  <b>or</b> by using <a href="http://keyserver.hw.ac.uk/" target="_blank">Keyserver</a> (More info <a href="https://heriotwatt.sharepoint.com/sites/istraining/SitePages/Keyserver.aspx" target="_blank">here</a>)
 
 </details>
 
