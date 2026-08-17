@@ -110,3 +110,27 @@ This list can be updated by editing the file and putting a pull request on it.
   More info regarding the Plan <a href="https://www.notion.so/product/notion-for-education#:~:text=Try%20Notion%20free-,Questions%20%26%C2%A0answers,-I%E2%80%99m%20already%20paying"><b>here</b></a>
   
 </details>
+
+<details>
+
+  <summary id="Autodesk">
+  	<a href="https://www.autodesk.com/education/edu-software/overview">
+      <b>Autodesk</b>
+    </a>
+  </summary>
+
+  A large selection of Autodesk products (full list <a href="https://www.autodesk.com/education/edu-software/overview">here</a>) are available to students to use for free. This is specially useful for students in all disciplines of engineering and architecture. You can find instructions on how to get a one year license for these products <a href="https://www.autodesk.com/ae/support/account/education/students-educators/get-started">here</a>. The license can be renewed as long as you are a student.
+
+</details>
+
+<details>
+
+  <summary id="MATLAB">
+  	<a href="https://www.mathworks.com/products/matlab.html">
+      <b>MATLAB</b>
+    </a>
+  </summary>
+
+  The university has an institutional license from Mathworks, that entitles students to download and use all MATLAB and Simulink products, as well as most official add-ons for free. To access these products online or on your own device, just sign-in using your university email, which will redirect you to the university portal to sign in.
+
+</details>
