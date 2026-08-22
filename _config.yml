@@ -1,4 +1,4 @@
-remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk@0.1.0
 
 favicon: "favicon-32x32.png" # relative path to site's favicon
 
