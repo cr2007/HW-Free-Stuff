@@ -1,3 +1,5 @@
+
+
 <!-- TO BE READ BEFORE EDITING ANY CHANGES -->
 
 <!-- Make sure to include a little detail about the resource provided,
@@ -38,7 +40,7 @@ This list can be updated by editing the file and putting a pull request on it.
   Most of the resources within this pack would be helpful mainly for people who take CS/STEM-related courses,<br>but here are the highlights:
   <br>
   <ul>
-    <li>1 year <a href="https://www.canva.com/education/github/" target="_blank">Canvo Pro</a> for free</li>
+    <li>1 year <a href="https://www.canva.com/education/github/" target="_blank">Canva Pro</a> for free</li>
     <li><b>Free</b> <a href="https://education.github.com/pack" target="_blank">Github Pro</a> till you graduate</li>
     <li>Free Access to the <a href="https://streamyard.com/github-students">StreamYard Essential Plan</a> while you are a student (Includes Unlimited Streaming, Multistreaming, Recording, etc.)</li>
   </ul>
